@@ -7,3 +7,4 @@
 - Do not slander, slander, slander.
 - No violence
 - Don't be shy about asking questions, and don't be shy about asking questions!
+- You may fork, develop, and do whatever you want with the repositories you are interested in.
